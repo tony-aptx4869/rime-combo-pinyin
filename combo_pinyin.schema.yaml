@@ -96,6 +96,8 @@ __patch:
   # - combo_pinyin_layouts:/use_gywa_layout
   # 十指禪·Emacs用家，左、右拇指鍵設爲：Control鍵、空格鍵
   # - combo_pinyin_layouts:/use_gywa_emacsen_layout
+  # 皓月九指禪
+  # - combo_pinyin_layouts:/use_gya_hy_layout
 
   # 使用八股文語言模型
   - grammar:/hant?
