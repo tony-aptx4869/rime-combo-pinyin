@@ -1,4 +1,4 @@
-![combo-pinyin-haoyue-wallpaper](https://img.tonychang1069.top/uPic/2022/11/08/combo-pinyin-haoyue-wallpaper.png)
+![combo-pinyin-haoyue-wallpaper](https://img.tonychang1069.top/uPic/2022/11/08/combo-pinyin-haoyue-wallpaper-2k.png)
 
 # 宮保拼音・皓月九指禪
 
@@ -49,3 +49,5 @@
       ...
       - schema: combo_pinyin_hy9  # 添加此條內容喲
       ...
+
+原尺寸壁紙請點擊[這裏下載](https://img.tonychang1069.top/uPic/2022/11/08/combo-pinyin-haoyue-wallpaper-6k.png)。
