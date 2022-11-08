@@ -1,4 +1,6 @@
-# 宮保拼音
+![combo-pinyin-haoyue-wallpaper](https://img.tonychang1069.top/uPic/2022/11/08/combo-pinyin-haoyue-wallpaper.png)
+
+# 宮保拼音・皓月九指禪
 
 配方： ℞ **combo-pinyin**
 
@@ -8,7 +10,7 @@
 
 [宮保拼音](https://github.com/rime/home/wiki/ComboPinyin) 是由 [居戎氏](https://github.com/lotem) 設計、在標準電腦鍵盤上多鍵並擊輸入拼音的方法。
 
-*並擊* （chord-typing）是指：數指同時按下鍵盤上的多個按鍵。
+**並擊**（chord-typing）是指：數指同時按下鍵盤上的多個按鍵。
 
 可選擇多種 [並擊鍵位佈局](layouts.md)：
 
