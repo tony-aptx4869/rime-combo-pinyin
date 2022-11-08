@@ -2,16 +2,16 @@
 # encoding: utf-8
 
 schema:
-  schema_id: combo_pinyin_hy9
-  name: 宮保拼音·皓月
+  schema_id: combo_pinyin_hy9c
+  name: 宮保拼音·皓月C
   version: '0.2'
   author:
     - 皓月 <tonychang7869@gmail.com>
   description: |
-    此方案適用於通用 QWERTY 鍵盤佈局。
+    此方案適用於 Colemak 鍵盤佈局。
     並擊輸入拼音。
     對九指禪佈局做出調整，儘量減少組合鍵，以利指法。
 
 __include: combo_pinyin.schema:/
 __patch:
-  - combo_pinyin_layouts:/use_gya_hy_layout
+  - combo_pinyin_layouts:/use_gya_hy_colemak_layout

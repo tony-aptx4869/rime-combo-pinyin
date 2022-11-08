@@ -3,7 +3,10 @@
 info: |
     ## 皓月
     * 皓月九指禪／g·y·a_hy 佈局
-    對九指禪佈局做出調整，儘量減少組合鍵，以利指法。兼容通用鍵盤（單空格鍵）。
+    對九指禪佈局做出調整，儘量減少組合鍵，以利指法。
+    兼容通用 QWERTY 鍵盤佈局和 Colemak 鍵盤佈局。
+
+    QWERTY
     ---------------------------------------------
     指法  左5 左4 左3 左2 左2 右2 右2 右3 右4 右5
     ---------------------------------------------
@@ -18,6 +21,23 @@ info: |
     本文及輸入方案配置中，通過列舉定位鍵指稱鍵盤佈局。
 
     左手拇指或右手拇指管 y 鍵即空格鍵。
+
+    因爲 Colemak 鍵盤佈局與 QWERTY 鍵盤佈局有些許差異，所以在
+    Colemak 鍵盤佈局中，將位於 「上排，右5」 的 ou 移動至
+    「中排，右5」 這個位置。如下。
+
+    Colemak
+    ---------------------------------------------
+    指法  左5 左4 左3 左2 左2 右2 右2 右3 右4 右5
+    ---------------------------------------------
+    上排  c   l   n   d   t   ua  u   -i   o
+    中排  s   r   h   g*  k   er  a*  -n   e  ou
+    下排  z   f   m   b   p   üa  ü   -ou
+    拇指                  y*
+    ---------------------------------------------
+    指法                左1/右1
+    ---------------------------------------------
+
 
 
     * 七指禪／大衆式／g·i·a 佈局
@@ -716,6 +736,17 @@ use_gya_hy_layout:
   chord_composer/+:
     alphabet: 'aqzswxdecfrvgtb hynjumki,lop'
     algebra:
+      - 'xform/ /Y/'
+      - 'xform/^Y$/ /'
+    __patch:
+      - gya_hy_layout_options
+      - common_options
+
+use_gya_hy_colemak_layout:
+  chord_composer/+:
+    alphabet: 'aqzrwxsfctpvdgb hjknlmeu,iyo'
+    algebra:
+      - 'xlit|aqzrwxsfctpvdgbhjknlmeu,iyo|aqzswxdecfrvgtbhynjumki,lop|'
       - 'xform/ /Y/'
       - 'xform/^Y$/ /'
     __patch:

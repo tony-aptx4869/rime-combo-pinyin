@@ -47,7 +47,8 @@
 
     schema_list:
       ...
-      - schema: combo_pinyin_hy9  # 添加此條內容喲
+      - schema: combo_pinyin_hy9    # 添加此條表示使用 QWERTY 鍵盤佈局
+      - schema: combo_pinyin_hy9c   # 添加此條表示使用 Colemak 鍵盤佈局
       ...
 
 原尺寸壁紙請點擊[這裏下載](https://s.aptx4869.tv/cphywp6k)。
