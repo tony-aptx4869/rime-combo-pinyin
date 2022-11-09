@@ -1,4 +1,4 @@
-![combo-pinyin-haoyue-wallpaper](https://s.aptx4869.tv/cphywp2k)
+![combo-pinyin-haoyue-wallpaper](https://b233.icu/cphy2k)
 
 # 宮保拼音・皓月九指禪
 
@@ -51,4 +51,4 @@
       - schema: combo_pinyin_hy9c   # 添加此條表示使用 Colemak 鍵盤佈局
       ...
 
-原尺寸壁紙請點擊[這裏下載](https://s.aptx4869.tv/cphywp6k)。
+原尺寸壁紙請點擊[這裏下載](https://b233.icu/cphy6k)。
