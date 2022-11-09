@@ -2,11 +2,9 @@
 
 ## 皓月九指禪
 
-先送您一張壁紙：
-
 ![combo-pinyin-haoyue-wallpaper](https://b233.icu/cphy2k)
 
-原尺寸壁紙請點擊[這裏下載](https://b233.icu/cphy6k)。
+原尺寸壁紙請點擊這裏下載：[黑色壁紙](https://b233.icu/cphy6k2) | [白色壁紙](https://b233.icu/cphy6k)
 
 對九指禪佈局做出調整，儘量減少組合鍵，以利指法。
 
