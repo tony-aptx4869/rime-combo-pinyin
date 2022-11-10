@@ -51,4 +51,6 @@
       - schema: combo_pinyin_hy9c   # 添加此條表示使用 Colemak 鍵盤佈局
       ...
 
+## 高清壁紙
+
 原尺寸壁紙請點擊這裏下載：[黑色壁紙](https://b233.icu/cphy6k2) | [白色壁紙](https://b233.icu/cphy6k)
