@@ -2,9 +2,9 @@
 
 ## 皓月九指禪
 
-![combo-pinyin-haoyue-layout](https://b233.icu/cphy2kw)
+![combo-pinyin-haoyue-layout](https://img.tonychang1069.top/uPic/2022/11/10/combo-pinyin-haoyue-layout-4vs3-2k.png)
 
-原尺寸壁紙請點擊這裏下載：[黑色壁紙](https://b233.icu/cphy6kb) | [白色壁紙](https://b233.icu/cphy6kw)
+原尺寸壁紙請點擊這裏下載：[黑色壁紙](https://img.tonychang1069.top/uPic/2022/11/09/combo-pinyin-haoyue-wallpaper-6k.png) | [白色壁紙](https://img.tonychang1069.top/uPic/2022/11/10/combo-pinyin-haoyue-layout-6k.png)
 
 對九指禪佈局做出調整，儘量減少組合鍵，以利指法。
 

@@ -1,4 +1,4 @@
-![combo-pinyin-haoyue-layout](https://b233.icu/cphy2kw)
+![combo-pinyin-haoyue-layout](https://img.tonychang1069.top/uPic/2022/11/10/combo-pinyin-haoyue-layout-4vs3-2k.png)
 
 # 宮保拼音・皓月九指禪
 
@@ -53,4 +53,4 @@
 
 ## 高清壁紙
 
-原尺寸壁紙請點擊這裏下載：[黑色壁紙](https://b233.icu/cphy6kb) | [白色壁紙](https://b233.icu/cphy6kw)
+原尺寸壁紙請點擊這裏下載：[黑色壁紙](https://img.tonychang1069.top/uPic/2022/11/09/combo-pinyin-haoyue-wallpaper-6k.png) | [白色壁紙](https://img.tonychang1069.top/uPic/2022/11/10/combo-pinyin-haoyue-layout-6k.png)
